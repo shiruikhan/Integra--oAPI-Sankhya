@@ -85,13 +85,3 @@ Todos os pontos de falha são tratados com mensagens claras no terminal.
 ✅ Tratamento de exceções  
 ✅ Integração segura com `.env`  
 ✅ Compatível com ambientes automatizados
-
----
-
-## 📞 Suporte
-
-Para dúvidas, sugestões ou contribuições, abra uma issue ou entre em contato.
-
----
-
-> Desenvolvido com 💼 por profissionais de sistemas que sabem que integração **boa** é aquela que funciona **sem ruído**.
